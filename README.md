@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -18,5 +19,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
