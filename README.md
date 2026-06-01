@@ -8,10 +8,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
