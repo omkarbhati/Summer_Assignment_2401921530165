@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
