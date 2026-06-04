@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0283-move-zeroes) |
@@ -52,10 +53,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
