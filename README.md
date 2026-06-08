@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -86,5 +88,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
