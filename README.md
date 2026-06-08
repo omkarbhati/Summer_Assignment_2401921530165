@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0344-reverse-string) |
 ## Trie
 |  |
