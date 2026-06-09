@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
@@ -80,6 +82,7 @@
 | [0344-reverse-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
