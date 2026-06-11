@@ -43,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0392-is-subsequence) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0394-decode-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
