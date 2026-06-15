@@ -122,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -131,4 +132,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
