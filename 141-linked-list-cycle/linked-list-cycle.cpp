@@ -13,14 +13,14 @@ public:
         ListNode* fast = head;
 
         while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;          // move 1 step
-            fast = fast->next->next;    // move 2 steps
+            slow = slow->next;          
+            fast = fast->next->next;   
 
             if (slow == fast) {
-                return true;            // cycle found
+                return true;            
             }
         }
 
-        return false;                   // no cycle
+        return false;                   
     }
 };
