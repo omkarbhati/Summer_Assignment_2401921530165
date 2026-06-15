@@ -41,6 +41,7 @@
 | [0392-is-subsequence](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -133,4 +134,5 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
