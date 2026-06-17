@@ -121,6 +121,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0394-decode-string) |
 ## Recursion
@@ -143,4 +144,8 @@
 | [0206-reverse-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
