@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
@@ -121,6 +122,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0394-decode-string) |
