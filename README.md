@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -129,6 +130,7 @@
 | [0234-palindrome-linked-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +159,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
