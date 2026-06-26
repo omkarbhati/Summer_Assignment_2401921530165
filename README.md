@@ -103,6 +103,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0387-first-unique-character-in-a-string) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0933-number-of-recent-calls](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -206,6 +208,7 @@
 | [0112-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -217,6 +220,7 @@
 | [0112-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -230,6 +234,7 @@
 | [0112-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -239,6 +244,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
