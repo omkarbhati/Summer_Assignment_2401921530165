@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0084-largest-rectangle-in-histogram) |
@@ -42,6 +43,7 @@
 | [0011-container-with-most-water](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0141-linked-list-cycle) |
