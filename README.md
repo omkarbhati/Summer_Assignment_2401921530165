@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1207-unique-number-of-occurrences) |
 | [1572-matrix-diagonal-sum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
