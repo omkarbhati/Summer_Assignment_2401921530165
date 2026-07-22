@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0239-sliding-window-maximum) |
@@ -255,4 +256,8 @@
 | [0098-validate-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0700-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/omkarbhati/Summer_Assignment_2401921530165/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
